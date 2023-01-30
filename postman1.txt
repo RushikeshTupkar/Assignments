@@ -1,0 +1,9 @@
+{
+    "categories": [],
+    "created_at": "2020-01-05 13:42:30.480041",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "FdQzyq-rTq2Sw0ufTyhzrA",
+    "updated_at": "2020-01-05 13:42:30.480041",
+    "url": "https://api.chucknorris.io/jokes/FdQzyq-rTq2Sw0ufTyhzrA",
+    "value": "Once Chuck Norris stared down a skittle and it was so scared it pooped its pants and became an M&M. Now al they do is place a picture of Chuck Norris at the end of the Machine line and vualaa.. M&M's pattented formula."
+}
